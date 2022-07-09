@@ -568,25 +568,25 @@ class assignment4:
         except Exception as e:
             logging.error(e)
 
-    def q2(self):
-        try:
-            '''q2 : try to print below by using while loop : 
-                
-        A
-        B H 
-        C I N
-        D J o S
-        E K p T W
-        F L Q U X z
-        G M R V Y '''
-            i = 1
-            k = 10
-            while i <= k:#row
-                print()
-               
-                i = i + 1
-        except Exception as e:
-            logging.error(e)
+    # def q2(self):
+    #     try:
+    #         '''q2 : try to print below by using while loop :
+    #
+    #     A
+    #     B H
+    #     C I N
+    #     D J o S
+    #     E K p T W
+    #     F L Q U X z
+    #     G M R V Y '''
+    #         i = 1
+    #         k = 10
+    #         while i <= k:#row
+    #             print()
+    #
+    #             i = i + 1
+    #     except Exception as e:
+    #         logging.error(e)
 
 # as1.q1()
 # as1.q2()
