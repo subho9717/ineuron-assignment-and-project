@@ -1,0 +1,559 @@
+INFO 2022-07-03 12:18:33,153 test
+INFO 2022-07-03 12:24:00,816 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:27:12,561 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:27:12,561 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-03 12:28:11,658 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:28:11,658 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-03 12:28:59,596 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:28:59,597 solution 1 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-03 12:33:57,752 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:36:08,087 sample data::this is My First Python programming class and i am learNING python string and its function
+ERROR 2022-07-03 12:36:08,087 can only concatenate str (not "list") to str
+INFO 2022-07-03 12:37:22,573 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:37:22,573 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:42:25,505 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:42:25,505 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:42:25,505 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:42:52,482 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:42:52,482 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+ERROR 2022-07-03 12:42:52,482 can only concatenate str (not "list") to str
+INFO 2022-07-03 12:43:39,846 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:43:39,846 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+ERROR 2022-07-03 12:43:39,846 can only concatenate str (not "list") to str
+INFO 2022-07-03 12:45:20,410 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:45:20,410 solution 3_1 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+ERROR 2022-07-03 12:45:20,410 can only concatenate str (not "type") to str
+INFO 2022-07-03 12:45:40,631 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:45:40,631 solution 3_1 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:45:40,631 <class 'str'>
+INFO 2022-07-03 12:45:54,588 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:45:54,588 solution 3_1 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:45:54,588 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-03 12:52:24,633 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:53:12,811 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:53:12,811 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-03 12:55:47,925 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:55:47,926 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-03 12:55:47,926 solution 2 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-03 12:55:47,926 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:55:47,926 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-03 12:55:47,926 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-03 12:55:47,926 solution 4 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:56:12,624 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-03 12:56:12,624 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-03 12:56:12,624 solution 2 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-03 12:56:12,624 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-03 12:56:12,624 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-03 12:56:12,624 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-03 12:56:12,624 solution 5 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:51:53,129 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:51:53,129 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-04 14:51:53,129 solution 2 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-04 14:51:53,130 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:51:53,130 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-04 14:51:53,130 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-04 14:51:53,130 solution 5 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+ERROR 2022-07-04 14:51:53,130 can only concatenate str (not "bool") to str
+INFO 2022-07-04 14:52:08,391 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:52:08,391 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-04 14:52:08,391 solution 2 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-04 14:52:08,391 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:52:08,391 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-04 14:52:08,391 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-04 14:52:08,391 solution 5 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:52:08,391 False
+INFO 2022-07-04 14:53:28,823 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:53:28,823 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-04 14:53:28,823 solution 2 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-04 14:53:28,823 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:53:28,825 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-04 14:53:28,825 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-04 14:53:28,825 solution 5 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:55:20,425 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:55:20,425 solution 1 ::h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-04 14:55:20,425 solution 2 ::noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-04 14:55:20,426 solution 3 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:55:20,426 ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-04 14:55:20,426 solution 4 ::this is my first python programming class and i am learning python string and its function
+INFO 2022-07-04 14:55:20,426 solution 5 ::THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+INFO 2022-07-04 14:55:20,426 False
+INFO 2022-07-04 14:55:20,426 solution 6 ::isalnum() is usr for find the numeric value in data
+INFO 2022-07-04 14:56:03,309 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:56:03,310 False
+INFO 2022-07-04 14:56:03,310 solution 6 ::isalnum() is usr for find the numeric value in data
+INFO 2022-07-04 14:56:03,310 False
+INFO 2022-07-04 14:56:03,310 solution 6 ::ans5.isalpha() is usr for find the numeric value in data
+INFO 2022-07-04 14:57:21,899 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:57:21,899 True
+INFO 2022-07-04 14:57:21,899 solution 6 ::isalnum() is use for find the numeric or alphabets  value in data
+INFO 2022-07-04 14:57:21,899 False
+INFO 2022-07-04 14:57:21,899 solution 6 ::ans5.isalpha() is usr for find the numeric value in data
+INFO 2022-07-04 14:58:35,111 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:58:35,111 True
+INFO 2022-07-04 14:58:35,111 solution 6 ::isalnum() is use for find the numeric or alphabets  value in data
+INFO 2022-07-04 14:58:35,111 False
+INFO 2022-07-04 14:58:35,111 solution 6 ::ans5.isalpha() is usr for find the alphabets  value in data
+INFO 2022-07-04 14:59:12,396 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 14:59:12,396 True
+INFO 2022-07-04 14:59:12,396 solution 6 ::isalnum() is use for find the numeric or alphabets  value in data
+INFO 2022-07-04 14:59:12,396 True
+INFO 2022-07-04 14:59:12,396 solution 6 ::ans5.isalpha() is usr for find the alphabets  value in data
+INFO 2022-07-04 15:16:19,776 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 15:16:19,776 True
+INFO 2022-07-04 15:16:19,776 solution 6 ::isalnum() is use for find the numeric or alphabets  value in data
+INFO 2022-07-04 15:16:19,776 True
+INFO 2022-07-04 15:16:19,777 solution 6 ::ans5.isalpha() is usr for find the alphabets  value in data
+INFO 2022-07-04 15:16:43,305 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 15:16:43,305 solution 7 ::this	is	expand	tab	example
+INFO 2022-07-04 15:42:59,921 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 15:42:59,922 solution 7 ::this	is	expand	tab	example
+INFO 2022-07-04 16:05:45,756 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 16:05:45,756 solution 7 ::this	is	expand	tab	example
+INFO 2022-07-04 16:32:24,649 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 16:32:24,649 solution 8 ::example
+INFO 2022-07-04 16:33:16,656 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 16:33:16,656 solution 8 ::example
+INFO 2022-07-04 16:33:16,656 solution 8 ::example
+INFO 2022-07-04 16:33:37,610 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 16:33:37,610 solution 8 ::example  
+INFO 2022-07-04 16:33:37,610 solution 8 ::  example
+INFO 2022-07-04 16:35:01,588 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 16:35:01,588 solution 8 ::!  example  !
+INFO 2022-07-04 16:35:01,588 solution 8 ::!  example  !
+INFO 2022-07-04 16:35:23,716 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-04 16:35:23,716 solution 8 ::example  
+INFO 2022-07-04 16:35:23,716 solution 8 ::  example
+INFO 2022-07-05 17:06:18,883 sample data::this is My First Python programming class and i am learNING python string and its function
+ERROR 2022-07-05 17:06:18,883 center expected at least 1 argument, got 0
+INFO 2022-07-05 17:06:37,886 sample data::this is My First Python programming class and i am learNING python string and its function
+ERROR 2022-07-05 17:06:37,886 center expected at least 1 argument, got 0
+INFO 2022-07-05 17:08:57,902 sample data::this is My First Python programming class and i am learNING python string and its function
+ERROR 2022-07-05 17:08:57,902 replace() argument 1 must be str, not int
+ERROR 2022-07-05 17:08:57,902 center expected at least 1 argument, got 0
+INFO 2022-07-05 17:09:11,899 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:09:11,899 solution 8 ::example 2
+ERROR 2022-07-05 17:09:11,899 center expected at least 1 argument, got 0
+INFO 2022-07-05 17:09:46,955 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:09:46,955 solution 8 ::example 2
+INFO 2022-07-05 17:09:46,955 example   
+INFO 2022-07-05 17:10:12,869 sample data::this is My First Python programming class and i am learNING python string and its function
+ERROR 2022-07-05 17:10:12,869 name 'ans8' is not defined
+INFO 2022-07-05 17:10:12,869 example   
+INFO 2022-07-05 17:10:21,983 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:10:21,983 solution 8 ::example 2
+INFO 2022-07-05 17:10:21,983 example   
+INFO 2022-07-05 17:10:33,393 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:10:33,394 solution 8 ::example 2
+INFO 2022-07-05 17:10:33,394 example   
+INFO 2022-07-05 17:10:45,996 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:10:45,996 solution 8 ::example 2
+INFO 2022-07-05 17:10:45,996  example  
+INFO 2022-07-05 17:10:57,868 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:10:57,868 solution 8 ::example 2
+INFO 2022-07-05 17:10:57,868                                                                                                                                                   example                                                                                                                                                   
+INFO 2022-07-05 17:11:04,780 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:11:04,780 solution 8 ::example 2
+INFO 2022-07-05 17:11:04,781            example            
+INFO 2022-07-05 17:44:02,665 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:44:02,665 solution 8 ::example 2
+INFO 2022-07-05 17:44:02,665            example            
+INFO 2022-07-05 17:44:02,665 Ans 11 : python is a interpreater and compiler language.interpreter use to check the code line by line and compiler compile the code at once .In this method .py file compile to an intermediate code .pyc then this .pyc file  is directly interpreted as for final output
+INFO 2022-07-05 17:44:02,665 Ans 11 : a)develop desktop softwareb)task automationc) develop website 
+INFO 2022-07-05 17:44:15,500 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:44:15,501 solution 8 ::example 2
+INFO 2022-07-05 17:44:15,501            example            
+INFO 2022-07-05 17:44:15,501 Ans 11 : python is a interpreater and compiler language.interpreter use to check the code line by line and compiler compile the code at once .In this method .py file compile to an intermediate code .pyc then this .pyc file  is directly interpreted as for final output
+INFO 2022-07-05 17:44:15,501 Ans 11 : a)develop desktop software b)task automation  c) develop website 
+INFO 2022-07-05 17:52:52,259 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:52:52,259 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 17:53:44,303 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:53:44,303 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 17:54:08,868 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:54:08,868 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-05 17:54:08,868 can only concatenate str (not "list") to str
+INFO 2022-07-05 17:54:19,777 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:54:19,777 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 17:54:19,777 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 17:57:51,049 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:57:51,050 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 17:57:51,050 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 17:58:30,544 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:58:30,544 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 17:58:30,544 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 17:59:16,388 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 17:59:16,388 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 17:59:16,390 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:00:01,474 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:00:01,474 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:00:01,474 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:01:29,849 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:01:29,849 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:01:29,849 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:02:47,195 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:02:47,195 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:02:47,195 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:03:06,687 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:03:06,687 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:03:06,687 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:03:24,218 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:03:24,218 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:03:24,218 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:03:48,551 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:03:48,551 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:03:48,551 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:04:17,635 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:04:17,635 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:04:17,635 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:04:26,986 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:04:26,987 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:04:26,987 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:04:40,443 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:04:40,443 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:04:40,443 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:05:27,938 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:05:27,938 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:05:27,938 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:05:44,661 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:05:44,661 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-05 18:05:44,661 'str' object has no attribute 'key'
+INFO 2022-07-05 18:06:03,323 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:06:03,324 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:06:03,324 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:07:49,110 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:07:49,111 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:07:49,111 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-05 18:08:04,815 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:08:04,815 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:08:04,815 [234, 234]
+INFO 2022-07-05 18:09:34,268 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:09:34,268 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:09:34,268 (234, 6657, 6)
+INFO 2022-07-05 18:09:56,858 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:09:56,858 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:09:56,858 234
+INFO 2022-07-05 18:10:36,784 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:10:36,784 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:10:36,784 234
+INFO 2022-07-05 18:10:56,731 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:10:56,731 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-05 18:10:56,731 2
+INFO 2022-07-05 18:11:08,539 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:11:08,539 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-05 18:11:08,539 name 'm2' is not defined
+INFO 2022-07-05 18:11:42,216 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:11:42,216 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:11:42,216 [234, dict_keys(['key1', 234])]
+INFO 2022-07-05 18:12:22,366 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:12:22,366 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:12:22,366 [234, [dict_keys(['key1', 234])]]
+INFO 2022-07-05 18:12:33,459 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:12:33,459 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-05 18:12:33,459 list index out of range
+INFO 2022-07-05 18:12:58,970 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:12:58,970 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:12:58,970 [234, 234]
+INFO 2022-07-05 18:13:34,843 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:13:34,843 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:13:34,843 [234, ['key1', 234]]
+INFO 2022-07-05 18:13:57,611 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:13:57,611 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:13:57,611 [234, 234]
+INFO 2022-07-05 18:15:40,184 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:15:40,184 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:15:40,184 [23, 456, 67, 8, 78, 78]
+INFO 2022-07-05 18:15:53,333 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:15:53,333 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:15:53,333 456
+INFO 2022-07-05 18:17:12,637 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:17:12,637 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:17:12,637 456
+INFO 2022-07-05 18:17:32,926 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:17:32,926 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:17:32,926 [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO 2022-07-05 18:18:57,144 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:18:57,144 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:18:57,144 [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO 2022-07-05 18:19:15,913 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:19:15,913 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:19:15,913 {'key1': 'sudh', 234: [23, 45, 656]}
+INFO 2022-07-05 18:19:43,398 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:19:43,398 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:19:43,398 dict_keys(['key1', 234])
+INFO 2022-07-05 18:19:57,853 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:19:57,854 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:19:57,854 dict_values(['sudh', [23, 45, 656]])
+INFO 2022-07-05 18:20:32,861 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:20:32,861 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:20:32,861 sudh
+INFO 2022-07-05 18:23:42,358 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:23:42,358 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:23:42,358 ['key1', 234]
+INFO 2022-07-05 18:25:10,527 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-05 18:25:10,527 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-05 18:25:10,527 ['sudh', [23, 45, 656]]
+INFO 2022-07-06 17:28:11,550 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:28:11,550 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:28:11,550 ['sudh', [23, 45, 656]]
+INFO 2022-07-06 17:28:55,518 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:28:55,518 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:28:55,518 ['sudh', [23, 45, 656]]
+INFO 2022-07-06 17:30:04,170 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:30:04,170 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:30:04,170 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:30:04,170 [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-06 17:30:13,298 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:30:13,298 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:30:13,298 ok
+INFO 2022-07-06 17:30:49,064 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:30:49,064 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:30:49,064 ok
+INFO 2022-07-06 17:30:56,874 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:30:56,874 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:30:56,874 ok
+INFO 2022-07-06 17:31:56,986 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:31:56,986 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:31:56,986 ok
+INFO 2022-07-06 17:32:08,508 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:32:08,508 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:32:08,508 ok
+INFO 2022-07-06 17:33:00,147 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:33:00,147 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:33:00,147 ok
+INFO 2022-07-06 17:33:09,094 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:33:09,094 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:33:09,094 ok
+INFO 2022-07-06 17:33:14,366 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:33:14,366 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:33:14,366 ok
+INFO 2022-07-06 17:34:12,233 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:34:12,233 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:34:12,233 ok
+INFO 2022-07-06 17:34:48,010 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:34:48,010 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:34:48,010 ok
+INFO 2022-07-06 17:35:08,929 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:35:08,929 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:35:08,929 ok
+INFO 2022-07-06 17:35:48,392 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:35:48,392 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:35:48,392 ok
+INFO 2022-07-06 17:36:17,483 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:36:17,483 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:36:17,483 ok
+INFO 2022-07-06 17:36:43,575 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:36:43,575 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:36:43,575 ok
+INFO 2022-07-06 17:37:05,962 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:37:05,962 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:37:05,962 ok
+INFO 2022-07-06 17:37:20,811 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:37:20,811 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:37:20,811 ok
+INFO 2022-07-06 17:44:16,152 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:44:16,152 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:44:16,152 ok
+INFO 2022-07-06 17:44:25,582 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 17:44:25,582 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 17:44:25,582 ok
+INFO 2022-07-06 18:01:38,144 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:01:38,145 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:01:38,145 ok
+INFO 2022-07-06 18:01:47,237 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:01:47,237 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:01:47,237 ok
+INFO 2022-07-06 18:07:19,185 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:07:19,185 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:07:19,185 ok
+INFO 2022-07-06 18:07:50,683 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:07:50,683 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:07:50,683 ok
+INFO 2022-07-06 18:08:09,279 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:08:09,279 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:08:09,279 ok
+INFO 2022-07-06 18:08:16,033 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:08:16,033 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:08:16,033 ok
+INFO 2022-07-06 18:09:57,369 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:09:57,369 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:09:57,369 ok
+INFO 2022-07-06 18:12:57,281 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 18:12:57,281 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 18:12:57,281 ok
+INFO 2022-07-06 20:00:04,500 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 20:00:04,500 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 20:00:04,500 ok
+INFO 2022-07-06 20:00:24,650 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 20:00:24,650 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 20:00:24,650 ok
+INFO 2022-07-06 20:00:45,435 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-06 20:00:45,435 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-06 20:00:45,435 ok
+INFO 2022-07-07 14:33:13,968 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:33:13,968 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:33:13,968 ok
+INFO 2022-07-07 14:34:10,574 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:34:10,574 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:34:10,574 ok
+INFO 2022-07-07 14:34:21,753 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:34:21,753 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:34:21,753 ok
+INFO 2022-07-07 14:34:30,262 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:34:30,262 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:34:30,262 ok
+INFO 2022-07-07 14:35:14,443 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:35:14,443 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:35:14,443 ok
+INFO 2022-07-07 14:35:34,067 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:35:34,067 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 14:35:34,067 'int' object is not iterable
+INFO 2022-07-07 14:36:01,265 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:36:01,265 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:36:01,265 ok
+INFO 2022-07-07 14:36:15,661 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:36:15,661 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:36:15,661 ok
+INFO 2022-07-07 14:36:32,779 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:36:32,779 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:36:32,779 ok
+INFO 2022-07-07 14:36:42,688 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:36:42,688 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:36:42,688 ok
+INFO 2022-07-07 14:37:28,928 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:37:28,928 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:37:28,928 ok
+INFO 2022-07-07 14:38:00,854 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:38:00,854 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 14:38:00,854 2
+ERROR 2022-07-07 14:38:00,854 3
+ERROR 2022-07-07 14:38:00,854 4
+ERROR 2022-07-07 14:38:00,854 5
+ERROR 2022-07-07 14:38:00,854 6
+ERROR 2022-07-07 14:38:00,854 3
+ERROR 2022-07-07 14:38:00,854 4
+ERROR 2022-07-07 14:38:00,854 5
+ERROR 2022-07-07 14:38:00,854 6
+ERROR 2022-07-07 14:38:00,854 7
+INFO 2022-07-07 14:38:00,854 ok
+INFO 2022-07-07 14:38:57,717 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:38:57,717 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:38:57,717 ok
+INFO 2022-07-07 14:41:41,043 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:41:41,043 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:41:41,043 ok
+INFO 2022-07-07 14:42:52,321 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:42:52,321 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:42:52,321 ok
+INFO 2022-07-07 14:43:03,355 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:43:03,355 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:43:03,355 ok
+INFO 2022-07-07 14:43:37,950 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:43:37,950 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 14:43:37,950 'dict_items' object is not subscriptable
+INFO 2022-07-07 14:43:44,329 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:43:44,329 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:43:44,329 ok
+INFO 2022-07-07 14:43:58,455 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:43:58,455 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:43:58,455 ok
+INFO 2022-07-07 14:44:07,581 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:44:07,581 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:44:07,581 ok
+INFO 2022-07-07 14:44:16,124 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:44:16,124 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:44:16,124 ok
+INFO 2022-07-07 14:44:51,819 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:44:51,819 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:44:51,819 ok
+INFO 2022-07-07 14:44:57,600 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:44:57,600 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:44:57,600 ok
+INFO 2022-07-07 14:46:09,804 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:46:09,804 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:46:09,804 ok
+INFO 2022-07-07 14:46:55,733 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:46:55,733 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:46:55,733 ok
+INFO 2022-07-07 14:48:17,276 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:48:17,276 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:48:17,276 ok
+INFO 2022-07-07 14:48:34,540 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:48:34,540 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:48:34,540 ok
+INFO 2022-07-07 14:48:46,347 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:48:46,347 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:48:46,347 ok
+INFO 2022-07-07 14:48:58,487 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:48:58,487 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:48:58,487 ok
+INFO 2022-07-07 14:49:25,148 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:49:25,148 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:49:25,148 ok
+INFO 2022-07-07 14:49:40,245 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:49:40,245 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:49:40,261 ok
+INFO 2022-07-07 14:49:46,482 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:49:46,482 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:49:46,482 ok
+INFO 2022-07-07 14:50:39,871 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:50:39,871 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:50:39,871 ok
+INFO 2022-07-07 14:50:54,734 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:50:54,734 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:50:54,734 ok
+INFO 2022-07-07 14:51:12,380 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:51:12,380 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:51:12,380 ok
+INFO 2022-07-07 14:51:32,230 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 14:51:32,230 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 14:51:32,230 ok
+INFO 2022-07-07 22:08:55,139 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:08:55,139 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 22:08:55,139 unsupported operand type(s) for +: 'int' and 'list'
+INFO 2022-07-07 22:09:24,511 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:09:24,511 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 22:09:24,511 unsupported operand type(s) for +: 'int' and 'list'
+INFO 2022-07-07 22:10:04,155 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:10:04,155 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:10:23,618 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:10:23,618 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 22:10:23,619 'assignment3' object has no attribute 'li'
+INFO 2022-07-07 22:10:28,780 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:10:28,780 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 22:10:28,780 'assignment3' object has no attribute 'li'
+INFO 2022-07-07 22:10:41,815 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:10:41,815 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:10:41,816 [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO 2022-07-07 22:11:05,835 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:11:05,835 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:11:05,835 [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO 2022-07-07 22:11:18,427 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:11:18,427 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:11:18,427 [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 3, 6, 7, 8]
+INFO 2022-07-07 22:11:18,427 156
+INFO 2022-07-07 22:19:34,153 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:19:34,153 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:20:08,350 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:20:08,350 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:20:26,425 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:20:26,425 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:21:33,635 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:21:33,635 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:21:59,740 sample data::this is My First Python programming class and i am learNING python string and its function
+INFO 2022-07-07 22:21:59,740 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:27:20,929 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:27:20,929 [1, 3, 3, 5, 3, 5, 7, 45, 5, 23]
+INFO 2022-07-07 22:28:05,255 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:28:05,255 [1, 3, 3, 5, 3, 5, 7, 45, 5, 23]
+INFO 2022-07-07 22:28:36,679 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:28:46,099 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:28:46,099 ['ineuron', 'ineuron']
+INFO 2022-07-07 22:39:45,539 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:39:45,539 ['ineuron', 'ineuron']
+INFO 2022-07-07 22:40:06,874 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+ERROR 2022-07-07 22:40:06,874 'assignment3' object has no attribute 'li1'
+INFO 2022-07-07 22:40:29,011 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:41:07,954 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:41:26,560 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:41:56,467 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:42:57,472 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
+INFO 2022-07-07 22:53:09,575 [3, 4, 5, 6, 7, [23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9], (234, 6657, 6), {'key1': 'sudh', 234: [23, 45, 656]}]
