@@ -1,4 +1,6 @@
 import logging
+from datetime import datetime
+import smtplib
 logging.basicConfig(filename='oops_assignment.log', level=logging.DEBUG,format='%(levelname)s %(asctime)s %(message)s')
 
 
@@ -568,26 +570,103 @@ class assignment4:
         except Exception as e:
             logging.error(e)
 
-    # def q2(self):
-    #     try:
-    #         '''q2 : try to print below by using while loop :
-    #
-    #     A
-    #     B H
-    #     C I N
-    #     D J o S
-    #     E K p T W
-    #     F L Q U X z
-    #     G M R V Y '''
-    #         i = 1
-    #         k = 10
-    #         while i <= k:#row
-    #             print()
-    #
-    #             i = i + 1
-    #     except Exception as e:
-    #         logging.error(e)
+    def q2(self):
+        try:
+            '''q2 : try to print below by using while loop :
 
+                A
+                B H
+                C I N
+                D J o S
+                E K p T W
+                F L Q U X z
+                G M R V Y '''
+            i=0
+            while i < 7:#row
+                c = 65+i
+                # print(c)
+                j=0
+                while j < (i+1):
+                    if c == 91:
+                        break
+                    print(chr(c),  end=" ")
+                    c = c +6-j
+                    j += 1
+                i += 1
+                print()
+        except Exception as e:
+            logging.error(e)
+
+    def q3(self):
+        try:
+            '''q3 : Try to print all the number divisible by 3 in between a range of 40 - 400 :'''
+            i=40
+            while i < 401:#row
+               if i%3 == 0:
+                   print(i)
+               i += 1
+        except Exception as e:
+            logging.error(e)
+    def q4(self):
+        try:
+            '''q4 : Try to filter out all the vowels form below text by using while loop : '''
+            word = """Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.  Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.Python consistently ranks as one of the most popular programming languagesc"""
+
+
+            print()
+            i=0
+            while i < len(word):#row
+                if word[i].lower() in "aeiou":
+                    print(word[i])
+                i += 1
+        except Exception as e:
+            logging.error(e)
+
+    def q5(self):
+        try:
+            '''q5 : Try to generate all the even number between 1- 1000'''
+
+            print()
+            i=0
+            while i < 1001:#row
+                if i%2==0:
+                    print(i)
+                i += 1
+        except Exception as e:
+            logging.error(e)
+
+    def q7(self):
+        try:
+            '''q7 : write a code to get a time of your system'''
+
+            print(datetime.now().time())
+
+        except Exception as e:
+            logging.error(e)
+
+    def q8(self):
+        try:
+            '''q8 : Write a code to fetch date form your system'''
+
+            print(datetime.now().date())
+
+        except Exception as e:
+            logging.error(e)
+
+    def q9(self):
+        try:
+            '''q9 : Write a code to send a mail to your friend'''
+            server = smtplib.SMTP('smtp.gmail.com', 587)
+
+            server.starttls()
+            server.login("subhajit16.93@gmail.com", "xamqlaftehammflj")
+            server.sendmail("subhajit16.93@gmail.com",'techlab.desco@gmail.com','test mail')
+            print('mail sent')
+            server.quit()
+
+        except Exception as e:
+            print(e)
+            logging.error(e)
 # as1.q1()
 # as1.q2()
 # as1.q3()
@@ -628,4 +707,10 @@ as3 = assignment3()
 
 as3 = assignment4()
 # as3.q1()
-as3.q2()
+# as3.q2()
+# as3.q3()
+# as3.q4()
+# as3.q5()
+# as3.q7()
+# as3.q8()
+as3.q9()
